@@ -13,7 +13,7 @@ This project explores and analyzes a rich dataset of museums, artists, and artwo
 
 # Technologies Used
 
-- Python: Used to load the data into MySQL.
+- [Python](https://github.com/tanuverma25/Museum_insights/blob/main/connection.py): Used to load the data into MySQL.
 - SQL: For writing queries to extract and analyze the data.
 
 # Data Source
