@@ -14,7 +14,7 @@ This project explores and analyzes a rich dataset of museums, artists, and artwo
 # Technologies Used
 
 - [Python](https://github.com/tanuverma25/Museum_insights/blob/main/connection.py): Used to load the data into MySQL.
-- SQL: For writing queries to extract and analyze the data.
+- [SQL](https://github.com/tanuverma25/Museum_insights/blob/main/sql_project.sql): For writing queries to extract and analyze the data.
 
 # Data Source
 The dataset used is from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings)
