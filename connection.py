@@ -2,7 +2,7 @@
 import pandas as pd 
 from sqlalchemy import create_engine
 
-conn_string = 'mysql+pymysql://root:tanumysql@localhost/painting'
+conn_string = 'mysql+pymysql://root:your_password@localhost/painting'
 db = create_engine(conn_string)
 conn = db.connect()
 
