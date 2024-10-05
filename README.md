@@ -18,3 +18,6 @@ This project explores and analyzes a rich dataset of museums, artists, and artwo
 
 # Data Source
 The dataset used is from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+
+
+For a detailed walkthrough, check out the [blog post](https://medium.com/@whoistanu18/sql-project-museums-unveiled-with-sql-90ea4db11cc8) 
